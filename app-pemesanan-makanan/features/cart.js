@@ -1,6 +1,6 @@
 import { getData, url } from "../services/fetch.js"
 
-let cart = []
+export let cart = []
 
 export async function praCart(idProduk, qtyProduk) {
     const data = await getData(url)
