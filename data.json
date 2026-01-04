@@ -2,84 +2,84 @@
     {
         "id": 1,
         "name": "Family pack 1",
-        "price": 135.637,
+        "price": 135637,
         "description": "Ayam Asam Manis [1 Porsi] & Mie Goreng Ayam [1 Porsi] & Cap Cay Goreng",
         "category": "Family Pack"
     },
     {
         "id": 2,
         "name": "Family pack 2",
-        "price": 172.819,
+        "price": 172819,
         "description": "Chicken Cordon Bleu FF [1 Porsi] & Fillet Ikan Goreng Rica-rica [1 Porsi] & Bihun Goreng Sapi [1 Porsi] & Soup Ayam [1 Porsi]",
         "category": "Family Pack"
     },
     {
         "id": 3,
         "name": "Spaghetti Bolognaise",
-        "price": 24.455,
+        "price": 24455,
         "description": "",
         "category": "Menu Special"
     },
     {
         "id": 4,
         "name": "Chicken Steak Chessy + French Fries Dan Salad",
-        "price": 50.000,
+        "price": 50000,
         "description": "",
         "category": "Menu Special"
     },
     {
         "id": 5,
         "name": "Express Bowl Ayam Mentega",
-        "price": 27.273,
+        "price": 27273,
         "description": "",
         "category": "Express Bowl"
     },
     {
         "id": 6,
         "name": "Express Bowl Fillet Ikan Asam Manis",
-        "price": 31.819,
+        "price": 31819,
         "description": "",
         "category": "Express Bowl"
     },
     {
         "id": 7,
         "name": "Wedges With Bolognaise Sauce",
-        "price": 24.546,
+        "price": 24546,
         "description": "",
         "category": "Snack"
     },
     {
         "id": 8,
         "name": "French Fries",
-        "price": 21.819,
+        "price": 21819,
         "description": "",
         "category": "Snack"
     },
     {
         "id": 9,
         "name": "Mie Ayam Solaria Special ( Pedas )",
-        "price": 21.091,
+        "price": 21091,
         "description": "",
         "category": "Mie"
     },
     {
         "id": 10,
         "name": "Bakso Halus Mie/Bihun",
-        "price": 25.455,
+        "price": 25455,
         "description": "",
         "category": "Mie"
     },
     {
         "id": 11,
         "name": "Milk Shake Vanilla",
-        "price": 21.819,
+        "price": 21819,
         "description": "",
         "category": "Minuman"
     },
     {
         "id": 12,
         "name": "Orange Juice",
-        "price": 22.728,
+        "price": 22728,
         "description": "",
         "category": "Minuman"
     }
